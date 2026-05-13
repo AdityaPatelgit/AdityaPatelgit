@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Patel</h1>
+  <h1 align="center">Hi 👋, I'm Aditya Patel</h1>
 <h3 align="center">Passionate backend developer with 3 years of hands-on experience designing and building robust, scalable Java applications. I specialize in Spring Boot microservices, RESTful APIs, and cloud-native architectures. I love writing clean, maintainable code and solving complex backend challenges. 🔭 Currently building microservices with Spring Boot & Kafka 💬 Ask me about Java, Spring Boot, REST APIs, Microservices 📫 Reach me at: [your-email@example.com]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapatelgit&label=Profile%20views&color=0e75b6&style=flat" alt="adityapatelgit" /> </p>
